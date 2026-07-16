@@ -14,7 +14,6 @@ loops that are all written by hand.
 | **Logistic Regression** | [`logistic_regressions/`](logistic_regressions/logistic_regression.ipynb) | Binary classification from scratch |
 | **Basic Neural Network** | [`basic_neural_network/`](basic_neural_network/neural_network.ipynb) | Forward/backward propagation by hand |
 | **Car Price Prediction** | [`car_price_prediction/`](car_price_prediction/car_price_prediction.ipynb) | Applied regression on a kaggle dataset|
-| **Churn Prediction** | [`churn_prediction/`](churn_prediction/churn.ipynb) | Applied classification on a real dataset |
 
 ## Tech Stack
 
